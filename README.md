@@ -1,6 +1,6 @@
 # Olá, me chamo Lucas ! 
 ## Bem vindo ao meu perfil GitHub 👋
-**LucasSPereira-hue/Lucas-da-Silva-Pereira** is a special repository:
+
 - 🔭 Atualmente estou estudando analise e desenvolvinmento de sistemas
 - :school_satchel: Atualmente estou aprendendo 
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
